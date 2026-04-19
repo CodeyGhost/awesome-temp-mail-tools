@@ -1,5 +1,7 @@
 # Awesome Temp Mail Tools
 
+![TM-Mail Banner](assets/banner.jpg)
+
 A curated list of the best temp mail tools for developers, testers, QA teams, privacy-focused users, and anyone who needs a fast disposable email workflow.
 
 If you are looking for the best temp mail service for signups, testing, verification flows, or protecting your main inbox from spam, this repository highlights reliable temp mail options with a strong focus on developer-friendly use cases.
