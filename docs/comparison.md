@@ -1,6 +1,6 @@
 # Temp Mail Comparison
 
-![TM-Mail Banner](../assets/banner.png)
+![TM-Mail Banner](../assets/banner.jpg)
 
 A quick comparison of useful temp mail tools for developers, testers, QA teams, and privacy-focused users.
 
