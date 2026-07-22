@@ -27,6 +27,7 @@ If you are looking for the best temp mail service for signups, testing, verifica
 | Mail.tm | Free temp mail alternative | [Mail.tm](https://mail.tm/en/) |
 | Temp-Mail.org | Popular disposable email option | [Temp-Mail.org](https://temp-mail.org/en/) |
 | Temp-Mail.io | Simple temporary email workflow | [Temp-Mail.io](https://temp-mail.io/en) |
+| Temp Mail 24 | Short-lived, receive-only use | [Temp Mail 24](https://temp-mail24.com/) |
 
 ## Why Developers Use Temp Mail Tools
 
