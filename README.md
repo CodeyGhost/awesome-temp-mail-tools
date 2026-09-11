@@ -76,3 +76,5 @@ If you know another useful temp mail tool for developers, testers, or privacy wo
 ## License
 
 MIT
+
+- [Mailfo](https://mailfo.pages.dev) — Privacy-first temporary disposable email Android application and web service. Quick OTP receiver with zero tracking. Available on [Google Play](https://play.google.com/store/apps/details?id=com.mailfo.tmailapp).
